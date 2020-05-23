@@ -1,7 +1,3 @@
----
-title: 3. Installing
----
-
 # Installation
 
 Response is super simple to install and setup. If you haven't checked out the platform requirements, please
