@@ -1,7 +1,7 @@
-# Installation
+# Installing
 
 Response is super simple to install and setup. If you haven't checked out the platform requirements, please
-make sure to [check out those requirements here before continuing.](./2-Requirements.md).
+make sure to [check out those requirements here before continuing.](./02-Requirements.md).
 
 <!-- theme: info -->
 
@@ -22,7 +22,7 @@ make sure to [check out those requirements here before continuing.](./2-Requirem
 2. Response utilizes Composer for dependency management, you'll need [Composer installed](https://getcomposer.org/doc/00-intro.md)
    before installing Response.
 
-3. You'll need a web server that matches our [server requirements](./2-Requirements.md). For local developemt you can use
+3. You'll need a web server that matches our [server requirements](./02-Requirements.md). For local developemt you can use
    [Laravel Homestead](https://laravel.com/docs/7.x/homestead) or [Laravel Valet](https://laravel.com/docs/7.x/valet). Both
    of these will meet or exceed the system requirements for the Response application.
 
